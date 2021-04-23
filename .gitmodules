@@ -1,3 +1,6 @@
 [submodule "frontend-jobsite"]
 	path = frontend-jobsite
 	url = https://github.com/mijamessmith/frontend-jobsite
+[submodule "backend-jobsite"]
+	path = backend-jobsite
+	url = https://github.com/mijamessmith/backend-jobsite
